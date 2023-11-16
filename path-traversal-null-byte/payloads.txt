@@ -1,0 +1,3 @@
+../etc/passwd%00.png
+../../etc/passwd%00.png
+../../../etc/passwd%00.png
